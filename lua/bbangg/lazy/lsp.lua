@@ -29,6 +29,7 @@ return {
                 "tsserver",
                 "lua_ls",
                 "rust_analyzer",
+                "volar"
             },
             handlers = {
                 function(server_name) -- default handler (optional)
